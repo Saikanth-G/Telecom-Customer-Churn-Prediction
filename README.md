@@ -242,7 +242,7 @@ Score 411 new joiners → risk tiers → revenue at risk → Excel output
 
 ### Model Results
 
-![Model Evaluation](Model_Evaluation.png.png)
+![Model Evaluation](Model_Evaluation.png)
 
 | Model | Accuracy | ROC-AUC | CV-AUC (5-fold) | Avg Precision |
 |-------|----------|---------|-----------------|---------------|
@@ -263,7 +263,7 @@ The model catches **65% of all actual churners** (recall). In a retention campai
 
 ### SHAP Explainability
 
-![SHAP Explainability](outputs/3_shap_explainability.png)
+![SHAP Explainability](SHAP_Explainability.png)
 
 SHAP (SHapley Additive exPlanations) assigns each feature a contribution value for every individual prediction — showing both *how much* and *in which direction* each feature influenced the output. This goes further than standard feature importance by enabling per-customer explanations.
 
