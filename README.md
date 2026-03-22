@@ -242,7 +242,7 @@ Score 411 new joiners → risk tiers → revenue at risk → Excel output
 
 ### Model Results
 
-![Model Evaluation](outputs/2_model_evaluation.png)
+![Model Evaluation](Model_Evaluation.png.png)
 
 | Model | Accuracy | ROC-AUC | CV-AUC (5-fold) | Avg Precision |
 |-------|----------|---------|-----------------|---------------|
