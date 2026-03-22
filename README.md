@@ -290,7 +290,7 @@ SHAP (SHapley Additive exPlanations) assigns each feature a contribution value f
 
 ### Business Output
 
-![Business Insights](outputs/4_business_insights.png)
+![Business Insights](Business Insights.png)
 
 All 411 new customers were scored with individual churn probabilities and segmented into four risk tiers:
 
